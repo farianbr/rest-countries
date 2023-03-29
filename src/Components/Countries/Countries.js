@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Country from './Country/Country';
+import Country from '../Country/Country';
 import './Countries.css'
 
 const Countries = () => {

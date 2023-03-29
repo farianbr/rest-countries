@@ -1,0 +1,11 @@
+.header-container{
+    background-color:lightblue;
+    height: 80px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
